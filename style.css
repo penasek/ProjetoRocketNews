@@ -1,0 +1,155 @@
+@import 'https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap';
+
+.master {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background-color: blue;
+}
+
+.left {
+  width: 50%;
+  height: 100%;
+  float: left;
+  margin-left: 0px;
+  background-color: black;
+  height: 100vh;
+}
+
+.right {
+  margin-left: 50%;
+  height: 100vh;
+}
+
+.right>img {
+
+  width: 100%;
+  height: 100%;
+}
+
+.logo {
+  padding-top: 30px;
+  padding-left: 20px;
+  margin-top: 0px;
+  background-color: black;
+  border-top: 0px;
+
+}
+
+.logo>img {
+
+  width: 389px;
+  height: 94px;
+  left: 30px;
+  top: 50px;
+}
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.descrição {
+
+  width: 647px;
+  height: 102px;
+  left: 36px;
+  margin-top: 80px;
+
+}
+
+h2 {
+  color: #04d361;
+  font-family: Spartan, Work Sans;
+  font-weight: 700;
+  font-style: bold;
+  padding-left: 30px;
+}
+
+h3 {
+  color: #e1e1e6;
+  font-family: Spartan, Work Sans;
+  padding-left: 30px;
+  width: 100vh;
+
+
+}
+
+p {
+  color: #e1e1e6;
+  font-family: Spartan, Work Sans;
+  padding-left: 30px;
+  width: 100vh;
+}
+
+.text {
+  font-family: Spartan, Work Sans;
+  padding-left: 30px;
+  color: #8257E5;
+
+}
+
+.grupo-div-email {
+  margin-top: 100px;
+  margin-left: 30px;
+  position: absolute;
+}
+
+.input {
+
+
+  width: 1063.1px;
+  height: 53.5px;
+  padding: 0;
+  top: 501px;
+}
+
+.p-input {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+}
+
+.lado-input {
+  background-color: #04D361;
+  width: 5px;
+  height: 53.5px;
+  float: left;
+  border: 0;
+}
+
+.input-email {
+  float: left;
+  width: 1000px;
+  height: 48px;
+}
+
+.button {
+  float: right;
+  width: 50px;
+  height: 53.5px;
+  border: 0;
+  background-color: #8257E5;
+}
+
+.ultimo-texto {
+
+  margin-top: 240px;
+  margin-left: 30px;
+}
+
+text {
+  color: #8257E5;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.ultimo-texto>img {
+  width: 30px;
+  height: 40px;
+  margin-bottom: -19px;
+
+
+}
