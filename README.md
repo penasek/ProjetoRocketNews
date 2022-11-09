@@ -1,2 +1,2 @@
-# Discover_ProjetoRocketNews
-Primeiro projeto do que executei sozinha pela Rocketseat 
+# projeto criação de cracha 
+Primeiro projeto do que executei sozinha.
